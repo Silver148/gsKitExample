@@ -2,4 +2,5 @@
 
 ## Este es un ejemplo basico usando la libreria gsKit
 
-Para compilar el ejemplo tienes que tener la variable de entorno de gsKit(Recomiendo compilar este ejemplo en Ubuntu)
+Para compilar el ejemplo tienes que tener instalada la libreria [gsKit](https://github.com/ps2dev/gsKit)
+
