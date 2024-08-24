@@ -7,3 +7,5 @@ Para compilar el ejemplo tienes que usar este comando(recomiendo compilar el eje
 ```
 make
 ```
+
+### Asegurate que tengas instalada la libreria `gsKit` antes de compilar el ejemplo
